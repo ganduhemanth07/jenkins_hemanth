@@ -1,1 +1,1 @@
-print("************RAM IS ALL OVER INDIA and KARIMNAGAR*******************")
+print("************RAM IS ALL OVER KARIMNAGAR and Mancheriyal*******************")
